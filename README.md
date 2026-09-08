@@ -20,7 +20,7 @@ feros_barbier/
 └── README.md
 ```
 
-## Was zusätzlich eingebaut wurde
+## Was beinhaltet diese Seite
 - **Impressum & Datenschutz**: eigene Unterseiten, im Footer jeder Seite verlinkt
 - **Favicon**: aus dem Logo erzeugt, in allen gängigen Größen (Browser-Tab, Homescreen)
 - **Open-Graph-Tags**: für eine ansprechende Vorschau beim Teilen des Links auf
