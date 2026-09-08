@@ -20,19 +20,6 @@ feros_barbier/
 └── README.md
 ```
 
-## Vor dem Veröffentlichen unbedingt noch ausfüllen
-In `impressum.html` und `datenschutz.html` stehen gold hinterlegte Platzhalter
-(`[in eckigen Klammern]`), die noch echte Angaben brauchen:
-
-- **Vollständiger Vor- und Nachname** des Inhabers (Fero)
-- **E-Mail-Adresse**
-- **Handwerksrolle**: Friseur- und Barbierhandwerk ist in Deutschland zulassungspflichtig.
-  Bitte angeben, ob und unter welcher Handwerkskammer der Betrieb eingetragen ist
-  (vermutlich Handwerkskammer Braunschweig-Lüneburg-Stade)
-- Optional, falls vorhanden: Umsatzsteuer-ID, Handelsregistereintrag
-
-Einfach mit Strg+F nach `[` suchen, dann findest du alle offenen Stellen.
-
 ## Was zusätzlich eingebaut wurde
 - **Impressum & Datenschutz**: eigene Unterseiten, im Footer jeder Seite verlinkt
 - **Favicon**: aus dem Logo erzeugt, in allen gängigen Größen (Browser-Tab, Homescreen)
@@ -46,8 +33,3 @@ Einfach mit Strg+F nach `[` suchen, dann findest du alle offenen Stellen.
   Tab-Navigation
 - Google Fonts werden weiterhin über Googles CDN geladen (kein eigenes Hosting), das ist
   in der Datenschutzerklärung entsprechend erklärt
-
-## Später: eigene Domain
-Wenn Fero später eine eigene Domain möchte (z. B. `feros_barbier.de`), kann die einfach
-bei GitHub Pages unter "Custom domain" eingetragen werden, der Code bleibt gleich.
-
